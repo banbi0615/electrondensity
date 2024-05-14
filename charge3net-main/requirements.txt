@@ -1,0 +1,12 @@
+numpy
+ase
+torch
+e3nn
+hydra-core
+hydra-submitit-launcher
+tensorboard
+pandas
+scipy
+lz4
+boto3
+tqdm
